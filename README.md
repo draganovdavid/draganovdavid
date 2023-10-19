@@ -13,4 +13,4 @@
 
 <h3 align="left">Certificates</h3>
 
-- [Programming Basics C#](https://softuni.bg/certificates/details/124145/f51baec3)
+- [Programming Basics C#](https://softuni.bg/users/profile/certificates?username=Dav1dk0)
