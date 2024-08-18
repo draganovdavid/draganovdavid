@@ -19,3 +19,5 @@
 
 - [Programming Basics C#](https://softuni.bg/certificates/details/186624/4ccf952f)
 - [Programming Fundamentals C#](https://softuni.bg/certificates/details/209196/f05b87e2)
+- [Programming Advanced C#](https://softuni.bg/certificates/details/223280/522f0759)
+- [Programming OOP C#](https://softuni.bg/users/profile/certificates?username=Dav1dk0)
