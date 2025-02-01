@@ -21,3 +21,5 @@
 - [Programming Fundamentals C#](https://softuni.bg/certificates/details/209196/f05b87e2)
 - [C# Advanced](https://softuni.bg/certificates/details/223280/522f0759)
 - [C# OOP](https://softuni.bg/certificates/details/222763/be92a9f5)
+- [HTML & CSS](https://softuni.bg/certificates/details/228712/f729f111)
+- [JS Front-End](https://softuni.bg/certificates/details/232409/2ff2c5fa)
