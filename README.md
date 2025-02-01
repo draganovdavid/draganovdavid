@@ -17,8 +17,8 @@
 
 <h3 align="left">Certificates</h3>
 
-- [Programming Basics C#](https://softuni.bg/certificates/details/186624/4ccf952f)
-- [Programming Fundamentals C#](https://softuni.bg/certificates/details/209196/f05b87e2)
+- [Programming Basics](https://softuni.bg/certificates/details/186624/4ccf952f)
+- [Programming Fundamentals](https://softuni.bg/certificates/details/209196/f05b87e2)
 - [C# Advanced](https://softuni.bg/certificates/details/223280/522f0759)
 - [C# OOP](https://softuni.bg/certificates/details/222763/be92a9f5)
 - [HTML & CSS](https://softuni.bg/certificates/details/228712/f729f111)
