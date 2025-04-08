@@ -24,3 +24,4 @@
 - [HTML & CSS](https://softuni.bg/certificates/details/228712/f729f111)
 - [JS Front-End](https://softuni.bg/certificates/details/232409/2ff2c5fa)
 - [MS SQL](https://softuni.bg/certificates/details/235866/defddb91)
+- [Entity Framework Core](https://softuni.bg/certificates/details/239870/f58dad4e)
